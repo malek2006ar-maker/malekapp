@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features", 
+    "pricing": "Pricing",
+    "help": "Help"
+  },
+  "hero": {
+    "title": "malekapp - Smart Apps Platform",
+    "description": "Build professional applications without coding",
+    "start_free": "Start Free",
+    "watch_demo": "Watch Demo"
+  },
+  "features": {
+    "title": "malekapp Platform Features",
+    "subtitle": "Everything you need to build professional apps in one place"
+  }
+}
